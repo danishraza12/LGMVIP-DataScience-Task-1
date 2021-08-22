@@ -1,6 +1,6 @@
 # LGMVIP Data Science Task 1
 
-Contains the tasks completed during the course of LetsGrowMore Virtual Internship Program
+Contains the first task completed for the LetsGrowMore Data Science Virtual Internship Program
 
 Task: Prediction using Decision Tree Algorithm
 Level: Intermediate
